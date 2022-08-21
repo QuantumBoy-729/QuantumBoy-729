@@ -1,4 +1,4 @@
-### Howdy 👋
+## Howdy 👋
 
 <!--
 **QuantumBoy-729/QuantumBoy-729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Currently pursuing B.Tech CSE at PES University 
 ---
-###Languages
+Languages
 ---
 > C++
 
