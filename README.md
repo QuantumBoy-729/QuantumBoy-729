@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently pursuing B.Tech CSE at PES University 
+Currently Working!!! Somewhere
 ---
 Languages
 ---
