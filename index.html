@@ -629,11 +629,11 @@
       const captions = [];
 
       /* Hugging Face Inference API supports a single inference call per request.
-         To get multiple diverse captions we call with different seeds via
-         the parameters object (where supported) or run sequential calls. */
+         To get multiple captions we run parallel calls with cache disabled so
+         the model can produce varied outputs across requests. */
       const requests = [];
       for (let i = 0; i < count; i++) {
-        requests.push(callHFAPI(token, model, arrayBuffer, i));
+        requests.push(callHFAPI(token, model, arrayBuffer));
       }
 
       const results = await Promise.allSettled(requests);
@@ -662,18 +662,19 @@
     }
   }
 
-  async function callHFAPI(token, model, arrayBuffer, seed) {
+  async function callHFAPI(token, model, arrayBuffer) {
     const url = `https://api-inference.huggingface.co/models/${model}`;
-    const body = new Uint8Array(arrayBuffer);
+    const imageBytes = new Uint8Array(arrayBuffer);
+    const contentType = selectedFile.type || 'application/octet-stream';
 
     const response = await fetch(url, {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${token}`,
-        'Content-Type': selectedFile.type || 'application/octet-stream',
+        'Content-Type': contentType,
         'X-Use-Cache': 'false',
       },
-      body: body,
+      body: imageBytes,
     });
 
     if (response.status === 503) {
@@ -685,13 +686,13 @@
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${token}`,
-          'Content-Type': selectedFile.type || 'application/octet-stream',
+          'Content-Type': contentType,
           'X-Use-Cache': 'false',
         },
-        body: new Uint8Array(arrayBuffer),
+        body: imageBytes,
       });
       if (!retry.ok) throw new Error(`API error ${retry.status}: ${await retry.text()}`);
-      return extractCaption(await retry.json(), seed);
+      return extractCaption(await retry.json());
     }
 
     if (!response.ok) {
@@ -699,10 +700,10 @@
       throw new Error(`API error ${response.status}: ${text}`);
     }
 
-    return extractCaption(await response.json(), seed);
+    return extractCaption(await response.json());
   }
 
-  function extractCaption(data, seed) {
+  function extractCaption(data) {
     /* HF returns [{generated_text: "..."}] for most captioning models */
     if (Array.isArray(data) && data.length > 0) {
       const item = data[0];
