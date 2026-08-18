@@ -26,11 +26,14 @@ I'm a software developer with a passion for building efficient and scalable appl
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantumBoy-729&theme=tokyonight" alt="GitHub stats for QuantumBoy-729" />
+  <a href="https://github.com/QuantumBoy-729">
+    <img src="https://github-readme-stats-three-ebon-67.vercel.app/api?username=QuantumBoy-729&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats for QuantumBoy-729" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumBoy-729&theme=tokyonight" alt="Most used languages by repository count" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumBoy-729&theme=tokyonight" alt="Most used languages by commit count" width="49%" />
+  <a href="https://github.com/QuantumBoy-729">
+    <img src="https://github-readme-stats-three-ebon-67.vercel.app/api/top-langs/?username=QuantumBoy-729&layout=compact&theme=tokyonight" alt="Most used languages" />
+  </a>
 </p>
 
 ---
