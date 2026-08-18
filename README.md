@@ -26,14 +26,11 @@ I'm a software developer with a passion for building efficient and scalable appl
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/QuantumBoy-729">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=QuantumBoy-729&show_icons=true&theme=tokyonight&count_private=true" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuantumBoy-729&theme=tokyonight" alt="GitHub stats for QuantumBoy-729" />
 </p>
 <p align="center">
-  <a href="https://github.com/QuantumBoy-729">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumBoy-729&layout=compact&theme=tokyonight" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuantumBoy-729&theme=tokyonight" alt="Most used languages by repository count" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QuantumBoy-729&theme=tokyonight" alt="Most used languages by commit count" width="49%" />
 </p>
 
 ---
@@ -41,7 +38,7 @@ I'm a software developer with a passion for building efficient and scalable appl
 ### 🌐 Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/divyansh-raina-dxrz729">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/divyansh-raina-dxrz729">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
