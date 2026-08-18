@@ -5,7 +5,7 @@ I'm a software developer with a passion for building efficient and scalable appl
 - 🔭 I’m currently working on **AI based applications**.
 - 🌱 I’m currently learning **GoLang and DotNet**.
 - 🤔 I’m looking for help with **Time Commitment!!**.
-- 📫 How to reach me: **divicoolman729@gmail.com**
+- 📫 How to reach me: **divyraina729@gmail.com**
 
 ---
 
