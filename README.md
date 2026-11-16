@@ -1,4 +1,4 @@
-# Hi there, I'm Divyansh Raina 👋
+# Hi there, I'm Divyansh R 👋
 
 I'm a software developer with a passion for building efficient and scalable applications. I enjoy tackling challenges and am constantly learning new technologies to improve my craft.
 
