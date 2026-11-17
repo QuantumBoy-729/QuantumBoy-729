@@ -1,11 +1,25 @@
-# Hi there, I'm Divyansh R 👋
+# Hi there, I'm Divyansh Raina 👋
 
-I'm a software developer with a passion for building efficient and scalable applications. I enjoy tackling challenges and am constantly learning new technologies to improve my craft.
+Software Engineer at **Nokia** (Bengaluru), working on cloud-native and containerized systems for 4G/5G telecom. I debug and build distributed systems with C/C++, Python, Linux, Docker and Kubernetes.
 
-- 🔭 I’m currently working on **AI based applications**.
-- 🌱 I’m currently learning **GoLang and DotNet**.
-- 🤔 I’m looking for help with **Time Commitment!!**.
-- 📫 How to reach me: **divyraina729@gmail.com**
+- 🔭 Currently: LTE / 5G Cloud RAN microservices and transport-layer components at Nokia, plus side projects below.
+- 🌱 Learning: **Go** and **.NET**.
+- 🎯 Looking for: systems, back-end and cloud-native engineering roles.
+- 📫 Reach me: **divyraina729@gmail.com**
+- 🌐 Portfolio: [quantumboy-729.github.io/portfolio](https://quantumboy-729.github.io/portfolio/)
+
+---
+
+### 🚀 Featured work
+
+| Project | What it is |
+| --- | --- |
+| [**CloudNetSleuth**](https://github.com/QuantumBoy-729/CloudNetSleuth) | Cloud-native observability and root-cause-analysis platform for Kubernetes microservices (Python, Docker, Prometheus, Grafana). |
+| [**ThunderBirdX**](https://github.com/QuantumBoy-729/ThunderBirdX) | Modernized fork of Mozilla Thunderbird: redesigned UI, theme presets, conversation view, quick reply, and cross-platform release workflows. |
+| [**Souldew**](https://github.com/QuantumBoy-729/souldew) | Contributions to a Pokémon SoulLink / Nuzlocke app: touch-play mode, Android build and release pipeline, RetroArch-on-Android support, Gen 3 shiny-odds setting. |
+| [**Gait Analysis**](https://github.com/QuantumBoy-729/Gait_Analysis) | Person identification from gait using Gait Energy Images and Siamese networks (PES University capstone). |
+| [**Mahabharata Recital**](https://github.com/QuantumBoy-729/mahabharata-recital) | Web reader that reads the epic aloud, sentence by sentence (React, TypeScript, Vite). |
+| [**YT Video Downloader**](https://github.com/QuantumBoy-729/YT-videoDownloader) | Desktop downloader with pause / resume / stop, packaged as an exe and MSI installer. |
 
 ---
 
@@ -14,11 +28,15 @@ I'm a software developer with a passion for building efficient and scalable appl
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
 ---
