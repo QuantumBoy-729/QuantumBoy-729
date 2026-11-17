@@ -61,4 +61,7 @@ Software Engineer at **Nokia** (Bengaluru), working on cloud-native and containe
 <a href="https://www.linkedin.com/in/divyansh-raina-dxrz729">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://www.credly.com/users/divyansh-raina.3e7928c7">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+</a>
 </p>
