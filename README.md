@@ -15,7 +15,6 @@ Software Engineer at **Nokia** (Bengaluru), working on cloud-native and containe
 | Project | What it is |
 | --- | --- |
 | [**CloudNetSleuth**](https://github.com/QuantumBoy-729/CloudNetSleuth) | Cloud-native observability and root-cause-analysis platform for Kubernetes microservices (Python, Docker, Prometheus, Grafana). |
-| [**ThunderBirdX**](https://github.com/QuantumBoy-729/ThunderBirdX) | Modernized fork of Mozilla Thunderbird: redesigned UI, theme presets, conversation view, quick reply, and cross-platform release workflows. |
 | [**Souldew**](https://github.com/QuantumBoy-729/souldew) | Contributions to a Pokémon SoulLink / Nuzlocke app: touch-play mode, Android build and release pipeline, RetroArch-on-Android support, Gen 3 shiny-odds setting. |
 | [**Gait Analysis**](https://github.com/QuantumBoy-729/Gait_Analysis) | Person identification from gait using Gait Energy Images and Siamese networks (PES University capstone). |
 | [**Mahabharata Recital**](https://github.com/QuantumBoy-729/mahabharata-recital) | Web reader that reads the epic aloud, sentence by sentence (React, TypeScript, Vite). |
